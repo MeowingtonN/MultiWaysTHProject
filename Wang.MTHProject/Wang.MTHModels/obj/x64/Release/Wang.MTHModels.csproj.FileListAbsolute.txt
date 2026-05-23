@@ -1,0 +1,8 @@
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\bin\x64\Release\Wang.MTHModels.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\bin\x64\Release\Wang.MTHModels.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\bin\x64\Release\MiniExcel.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\obj\x64\Release\Wang.MTHModels.csproj.AssemblyReference.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\obj\x64\Release\Wang.MTHModels.csproj.CoreCompileInputs.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\obj\x64\Release\Wang.MTH.A5D51A92.Up2Date
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\obj\x64\Release\Wang.MTHModels.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHModels\obj\x64\Release\Wang.MTHModels.pdb

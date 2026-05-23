@@ -1,0 +1,10 @@
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\bin\x64\Release\Wang.MTHDAL.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\bin\x64\Release\Wang.MTHDAL.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\bin\x64\Release\Wang.MTHModels.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\bin\x64\Release\MiniExcel.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\bin\x64\Release\Wang.MTHModels.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\obj\x64\Release\Wang.MTHDAL.csproj.AssemblyReference.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\obj\x64\Release\Wang.MTHDAL.csproj.CoreCompileInputs.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\obj\x64\Release\Wang.MTH.B9DFDCD3.Up2Date
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\obj\x64\Release\Wang.MTHDAL.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHDAL\obj\x64\Release\Wang.MTHDAL.pdb

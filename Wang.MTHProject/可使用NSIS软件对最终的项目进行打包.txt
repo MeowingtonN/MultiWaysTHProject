@@ -1,0 +1,1 @@
+将 D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\bin\x64\Release 中的内容放到一个独立的文件夹中，使用 NSIS 软件可以将这个文件夹中存放的最终项目打包成安装包分发给用户使用。

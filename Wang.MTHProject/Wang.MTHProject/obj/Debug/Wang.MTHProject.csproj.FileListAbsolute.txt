@@ -1,0 +1,11 @@
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\bin\Debug\Wang.MTHProject.exe.config
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\bin\Debug\Wang.MTHProject.exe
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\bin\Debug\Wang.MTHProject.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.csproj.AssemblyReference.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.MainForm.resources
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.Properties.Resources.resources
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.csproj.GenerateResource.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.csproj.CoreCompileInputs.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.exe
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHProject\obj\Debug\Wang.MTHProject.exe.config

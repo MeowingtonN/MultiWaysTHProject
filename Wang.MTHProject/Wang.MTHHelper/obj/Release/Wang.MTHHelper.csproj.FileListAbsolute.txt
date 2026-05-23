@@ -1,0 +1,14 @@
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHHelper.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHHelper.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\obj\Release\Wang.MTHHelper.csproj.AssemblyReference.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\obj\Release\Wang.MTHHelper.csproj.CoreCompileInputs.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\obj\Release\Wang.MTHHelper.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\obj\Release\Wang.MTHHelper.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHControlLib.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHControlLib.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\obj\Release\Wang.MTH.B06ADE13.Up2Date
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\SeeSharpTools.JY.GUI.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHModels.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\MiniExcel.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Wang.MTHModels.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.MTHHelper\bin\Release\Newtonsoft.Json.dll

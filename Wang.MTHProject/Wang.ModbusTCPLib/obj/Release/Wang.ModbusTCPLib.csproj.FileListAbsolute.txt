@@ -1,0 +1,6 @@
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\bin\Release\Wang.ModbusTCPLib.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\bin\Release\Wang.ModbusTCPLib.pdb
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\obj\Release\Wang.ModbusTCPLib.csproj.AssemblyReference.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\obj\Release\Wang.ModbusTCPLib.csproj.CoreCompileInputs.cache
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\obj\Release\Wang.ModbusTCPLib.dll
+D:\CSharpProject\FollowTheCourse\MTHProject\Wang.MTHProject\Wang.ModbusTCPLib\obj\Release\Wang.ModbusTCPLib.pdb
