@@ -195,9 +195,9 @@
             this.lbl_LogoName.ForeColor = System.Drawing.Color.White;
             this.lbl_LogoName.Location = new System.Drawing.Point(58, 15);
             this.lbl_LogoName.Name = "lbl_LogoName";
-            this.lbl_LogoName.Size = new System.Drawing.Size(245, 36);
+            this.lbl_LogoName.Size = new System.Drawing.Size(214, 36);
             this.lbl_LogoName.TabIndex = 1;
-            this.lbl_LogoName.Text = "MOTHERFUCKER";
+            this.lbl_LogoName.Text = "IM A LEARNER";
             // 
             // pictureBox_Logo
             // 
