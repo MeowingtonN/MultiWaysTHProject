@@ -13,7 +13,7 @@ using Wang.MTHModels;
 namespace Wang.MTHProject
 {
     /// <summary>
-    /// 项目通用静态属性或对象
+    /// 项目通用全局静态属性或对象
     /// </summary>
     public class CommonMethods
     {
@@ -22,7 +22,9 @@ namespace Wang.MTHProject
         /// </summary>
         public static SysAdmin CurrentAdmin { get; set; }
 
-        // 一个静态设备对象
+        /// <summary>
+        /// 一个全局静态设备对象（若有多个从站设备，可以使用<设备名, 设备对象>字典数据结构以在内存中存储和索引多个设备）
+        /// </summary>
         public static Device Device { get; set; }
 
         // 静态系统委托对象，用于不同窗口向Monitor窗口的系统日志ListView中添加日志
