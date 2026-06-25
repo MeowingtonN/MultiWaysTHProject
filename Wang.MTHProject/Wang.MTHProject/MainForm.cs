@@ -58,8 +58,8 @@ namespace Wang.MTHProject
             if(dialogResult == DialogResult.OK)
             {
                 storeActualDataTimer.Stop();
-                CommonMethods.Modbus?.DisConnect();
                 cts?.Cancel();
+                CommonMethods.Modbus?.DisConnect();
             }
             else
             {
