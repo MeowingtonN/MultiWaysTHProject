@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|d:\\csharpproject\\followthecourse\\mthproject\\wang.mthproject\\wang.mthcontrollib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|solutionrelative:wang.mthcontrollib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|d:\\csharpproject\\followthecourse\\mthproject\\wang.mthproject\\wang.mthcontrollib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|solutionrelative:wang.mthcontrollib\\navibutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthcontrollib\\thmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|solutionrelative:wang.mthcontrollib\\thmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthcontrollib\\thmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABB28DF1-B3B5-42E6-B011-B1DB4C6182C6}|Wang.MTHControlLib\\Wang.MTHControlLib.csproj|solutionrelative:wang.mthcontrollib\\thmcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E149DDC2-6671-4BB1-BC10-BFD977425D20}|Wang.MTHModels\\Wang.MTHModels.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthmodels\\sysadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{E149DDC2-6671-4BB1-BC10-BFD977425D20}|Wang.MTHModels\\Wang.MTHModels.csproj|solutionrelative:wang.mthmodels\\config\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21392D25-54FF-4B8F-AD02-71F558BCE6C6}|Wang.MTHBLL\\Wang.MTHBLL.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthbll\\sysadminmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21392D25-54FF-4B8F-AD02-71F558BCE6C6}|Wang.MTHBLL\\Wang.MTHBLL.csproj|solutionrelative:wang.mthbll\\sysadminmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmparamset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|solutionrelative:wang.mthproject\\frmalarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26785CB-8CCC-4E2C-B826-DA431C52C7C7}|Wang.ModbusTCPLib\\Wang.ModbusTCPLib.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.modbustcplib\\modbustcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26785CB-8CCC-4E2C-B826-DA431C52C7C7}|Wang.ModbusTCPLib\\Wang.ModbusTCPLib.csproj|solutionrelative:wang.modbustcplib\\modbustcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90BC6895-B86F-4C0B-BE13-E858C85E5627}|Wang.MTHProject\\Wang.MTHProject.csproj|D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\wang.mthproject\\frmusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -98,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,32 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NaviButton.cs",
-              "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHControlLib\\NaviButton.cs",
-              "RelativeDocumentMoniker": "Wang.MTHControlLib\\NaviButton.cs",
-              "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHControlLib\\NaviButton.cs",
-              "RelativeToolTip": "Wang.MTHControlLib\\NaviButton.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwE0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T02:28:42.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NaviButton.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHControlLib\\NaviButton.cs",
-              "RelativeDocumentMoniker": "Wang.MTHControlLib\\NaviButton.cs",
-              "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHControlLib\\NaviButton.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "Wang.MTHControlLib\\NaviButton.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T02:28:38.039Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "THMControl.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHControlLib\\THMControl.cs",
               "RelativeDocumentMoniker": "Wang.MTHControlLib\\THMControl.cs",
@@ -139,11 +102,12 @@
               "RelativeToolTip": "Wang.MTHControlLib\\THMControl.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAvwGEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T01:56:43.62Z"
+              "WhenOpened": "2026-06-25T01:56:43.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FrmMonitor.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmMonitor.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmMonitor.cs",
@@ -154,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FrmMonitor.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmMonitor.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmMonitor.cs",
@@ -166,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmHistory.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmHistory.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmHistory.cs",
@@ -201,18 +165,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "FrmParamSet.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmParamSet.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmParamSet.cs",
               "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmParamSet.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Wang.MTHProject\\FrmParamSet.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T05:56:00.654Z"
+              "WhenOpened": "2026-05-23T05:56:00.654Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "FrmAlarm.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmAlarm.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmAlarm.cs",
@@ -224,15 +189,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "FrmParamSet.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmParamSet.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmParamSet.cs",
               "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmParamSet.cs",
               "RelativeToolTip": "Wang.MTHProject\\FrmParamSet.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAANIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T05:52:57.445Z"
+              "WhenOpened": "2026-05-23T05:52:57.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -248,19 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ModbusTCP.cs",
-              "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.ModbusTCPLib\\ModbusTCP.cs",
-              "RelativeDocumentMoniker": "Wang.ModbusTCPLib\\ModbusTCP.cs",
-              "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.ModbusTCPLib\\ModbusTCP.cs",
-              "RelativeToolTip": "Wang.ModbusTCPLib\\ModbusTCP.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T05:17:59.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\MainForm.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\MainForm.cs",
@@ -284,20 +238,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\MainForm.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\MainForm.cs",
               "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\MainForm.cs",
               "RelativeToolTip": "Wang.MTHProject\\MainForm.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAiwEsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIBAAAAAAAAAAAuwB8BAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T03:28:52.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "FrmUserManager.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmUserManager.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmUserManager.cs",
@@ -309,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "SysAdminManage.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHBLL\\SysAdminManage.cs",
               "RelativeDocumentMoniker": "Wang.MTHBLL\\SysAdminManage.cs",
@@ -321,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "SysAdminService.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHDAL\\SysAdminService.cs",
               "RelativeDocumentMoniker": "Wang.MTHDAL\\SysAdminService.cs",
@@ -333,19 +287,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "CommonMethods.cs",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\CommonMethods.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\CommonMethods.cs",
               "ToolTip": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\CommonMethods.cs",
               "RelativeToolTip": "Wang.MTHProject\\CommonMethods.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwC0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T05:34:48.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "FrmUserManager.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\CSharpProject\\FollowTheCourse\\MTHProject\\Wang.MTHProject\\Wang.MTHProject\\FrmUserManager.cs",
               "RelativeDocumentMoniker": "Wang.MTHProject\\FrmUserManager.cs",
