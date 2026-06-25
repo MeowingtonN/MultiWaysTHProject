@@ -91,6 +91,21 @@ namespace Wang.MTHControlLib
             }
         }
 
+        private float alarmTempValue = 0.0f;
+        [Browsable(true)]
+        [Category("自定义属性")]
+        [Description("设置外环温度高限显示")]
+        public float AlarmTempValue
+        {
+            get { return alarmTempValue; }
+            set
+            {
+                alarmTempValue = value;
+                float temp = (value - this.dialPlate.RangeMin) / (this.dialPlate.RangeMax - this.dialPlate.RangeMin);
+                this.dialPlate.AlarmAngle = temp * 180.0f;
+            }
+        }
+
         private bool moduleError = false;
         [Browsable(true)]
         [Category("自定义属性")]

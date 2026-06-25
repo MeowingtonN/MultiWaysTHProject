@@ -80,7 +80,18 @@ namespace Wang.MTHControlLib
             get { return alarmAngle; }
             set
             {
-                alarmAngle = value;
+                if(value < 0)
+                {
+                    alarmAngle = 0;
+                }
+                else if(value > 180.0f)
+                {
+                    alarmAngle = 180.0f;
+                }
+                else
+                {
+                    alarmAngle = value;
+                }
                 this.Invalidate();
             }
         }

@@ -70,6 +70,9 @@ namespace Wang.MTHProject
             if (CommonMethods.Device != null && CommonMethods.Device[thmControl.TempVarName] != null)
             {
                 thmControl.Temp = CommonMethods.Device[thmControl.TempVarName].ToString();
+                thmControl.AlarmTempValue = Convert.ToSingle(CommonMethods.Device[thmControl.TempVarName + "高限"]);
+
+                // 可以在这里比较温度值和温度高低限以进行报警提示，但是这里尊重目标机硬件内部的报警标志位，故不在这里进行报警提示。
             }
 
             // 更新湿度控件显示

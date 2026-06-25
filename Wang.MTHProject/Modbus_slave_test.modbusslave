@@ -1,0 +1,70 @@
+﻿{
+  "Basic": {
+    "Slaves": [
+      {
+        "SlaveId": 1,
+        "DataAreaId": "",
+        "Coils": {
+          "StartAddress": 0,
+          "Count": 256
+        },
+        "DiscreteInputs": {
+          "StartAddress": 0,
+          "Count": 256
+        },
+        "HoldingRegisters": {
+          "StartAddress": 0,
+          "Count": 256
+        },
+        "InputRegisters": {
+          "StartAddress": 0,
+          "Count": 256
+        }
+      }
+    ],
+    "DataAreaValuesPerRow": 10
+  },
+  "Listener": {
+    "Protocol": "Tcp",
+    "IsEnabled": true,
+    "Host": "127.0.0.1",
+    "Port": 502,
+    "PortName": "COM1",
+    "BaudRate": 9600,
+    "DataBits": 8,
+    "Parity": "None",
+    "StopBits": "One"
+  },
+  "Variables": [],
+  "VariableGroups": [
+    {
+      "Id": "UngfK2",
+      "Title": "分组 1",
+      "X": 0,
+      "Y": 0,
+      "Width": 1000,
+      "Height": 400,
+      "AccentIndex": 0
+    },
+    {
+      "Id": "aPIB6W",
+      "Title": "分组 2",
+      "X": 300,
+      "Y": 0,
+      "Width": 250,
+      "Height": 200,
+      "AccentIndex": 1
+    },
+    {
+      "Id": "MOk7ck",
+      "Title": "分组 3",
+      "X": 600,
+      "Y": 0,
+      "Width": 250,
+      "Height": 200,
+      "AccentIndex": 2
+    }
+  ],
+  "Display": null,
+  "LayoutElementId": "5Yxmq9"
+}
